@@ -12,7 +12,11 @@ Modify and run the RunDeepInstCoseg.py.
 
 This is the comparation between DeepCO3(author) and DeepCO3-python(this) in four datasets from original cvpr19 paper.
 
-![](https://github.com/cj4L/DeepCO3-python/raw/master/pic/comp.png)
+
+
+<p align="center">
+  <img src="https://github.com/cj4L/DeepCO3-python/blob/main/comp.PNG" width="90%" height="90%">  
+</p>
 
 
 By the way, if you use the code, please cite the following reference:
